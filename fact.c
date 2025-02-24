@@ -2,7 +2,7 @@
 int main()
 {
   int n;
-  printf("Enter a number to find factorial: ");
+  printf("Enter a number to find factors: ");
   scanf("%d", &n);
   printf("Factors are: ");
   for (int i = 1; i < n; i++)
